@@ -8,7 +8,7 @@ Creating server (compiled binary)
 
 Protocol for client to interact with server
 - 1st message from client cs5700spring2013 HELLO <huskyID>
-	eg: "cs5700spring2013 HELLO deshpande.sr@husky.neu.edu" 
+	eg: "cs5700spring2013 HELLO xyz@husky.neu.edu" 
 	server's response: "cs5700spring2013 STATUS 0 - 235 <IP>:<port>" 
 
 - 2nd message onwards.. cs5700spring2013 <solution to math puzzle>
